@@ -1,2 +1,1 @@
-# monfire
-MonFire core code.
+# MonFire
